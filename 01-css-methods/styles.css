@@ -1,0 +1,18 @@
+.title {
+  background-color: red;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+.contents {
+  background-color: green;
+  color: white;
+  font-size: 20px;
+}
+
+.button {
+  background-color: orange;
+  font-size: 20px;
+  border: 2px solid rgb(93, 128, 93);
+}
