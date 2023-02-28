@@ -1,0 +1,15 @@
+.button-1,
+.button-2 {
+  font-size: 50px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border: 5px solid grey;
+}
+
+.button-1 {
+  background-color: black;
+  color: white;
+}
+
+.button-2 {
+  background-color: yellow;
+}
